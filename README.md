@@ -48,6 +48,16 @@ To make DemoSCORE compatible with a new codebase, slight modifications need to b
 
 Note that the `robodiff` format was designed to work with that codebase but should work with other robomimic-style datasets.
 
+# Documentation
+
+## PI0 Model Integration
+
+For information on integrating LeRobot PI0 models with Demo-SCORE, see:
+- [PI0 Integration Guide (English)](./docs/pi0_integration_guide.md)
+- [PI0 Integration Guide (Korean)](./docs/pi0_integration_guide_ko.md)
+
+These guides explain how to adapt PI0 model embeddings for use with Demo-SCORE's dataset curation system.
+
 # Forks
 
 This repo contains forks of several other repos. These are:
